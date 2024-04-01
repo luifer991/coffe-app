@@ -1,5 +1,5 @@
 
-# Coffee 
+# Coffee Listing web app
 
 This project is a practice project aimed at developing my skills as a developer. I wanted to practice using React, Tailwind CSS, useEffect, and useState to make API requests. By working on this project, I hope to improve my understanding of these technologies and enhance my ability to create dynamic and interactive web applications. I am excited to dive into this project and see how my skills grow as a result.
 
