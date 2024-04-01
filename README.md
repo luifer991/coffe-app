@@ -1,8 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Title
 
-Currently, two official plugins are available:
+This project is a practice project aimed at developing my skills as a developer. I wanted to practice using React, Tailwind CSS, useEffect, and useState to make API requests. By working on this project, I hope to improve my understanding of these technologies and enhance my ability to create dynamic and interactive web applications. I am excited to dive into this project and see how my skills grow as a result.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 🚀 About Me
+I am a web development student with the goal of becoming a fullstack developer in the future. Currently, I am focusing my efforts on strengthening my knowledge in front end development, as I believe it is a crucial part in creating web applications. Additionally, I am studying backend development with Java, as I want to have a complete command of both sides of web development. I am excited to continue learning and growing in this dynamic and fascinating field.
+
+
+## Authors
+
+- [Jorge Morales](https://github.com/luifer991)
+
+
+## Tech Stack
+
+**Client:** React, TailwindCSS
+
+
