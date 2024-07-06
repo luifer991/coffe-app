@@ -11,7 +11,7 @@ export function Card({ coffies }) {
                     <p className="text-black bg-yellow relative top-8 left-3 w-20 h-6 rounded-lg text-center align-middle">popular</p> : 
                     ''}
                     <li className="w-full m-auto flex flex-col">
-                        <img className="rounded-xl" src={coffee.image} alt="cafe" />
+                        <img className="rounded-xl aspect-[16/9]" src={coffee.image} alt="cafe" />
                         <li className="mt-3 mb-3 list">
                             <h6 className="text-white text-base">{coffee.name}</h6>
                             <h6 className="bg-green relative text-black w-12 h-6 rounded-lg text-xs text-center align-middle">{coffee.price}</h6>
